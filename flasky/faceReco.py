@@ -42,3 +42,5 @@ def recognize_face(image):
 
       names.append(name)
       return names[0]
+
+print("hello world")
